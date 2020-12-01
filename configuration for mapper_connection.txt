@@ -1,0 +1,3 @@
+Entity: Sample_jsonFileBase64
+Content-type: application/json
+Sample: { "myfilename":"abc", "myfilebin_Base64": "abc"  }
